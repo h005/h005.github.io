@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  ubuntu 16.04 opencv install
+moto:	你眼中看似落叶纷飞变化无常的世界，实际只是躺在上帝怀中一份早已谱好的乐章。
 date:   2017-03-28 12:08:00 +0800
 categories: document
 tag: Ubuntu

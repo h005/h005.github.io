@@ -16,7 +16,7 @@ tag: Ubuntu
 
 运行install-opencv.sh
 
->	install-opencv.sh 该脚本基本上讲安装opencv所需要的库都装全了，但是具体要安装什么库还是可以修改这个文件的。
+>	install-opencv.sh 该脚本基本上将安装opencv所需要的库都装全了，但是具体要安装什么库还是可以修改这个文件的。
 
 
 ```

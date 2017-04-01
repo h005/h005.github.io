@@ -116,14 +116,14 @@ sudo apt-get remove oracle-java8-installer
 
 ##### 至此开始搞定opencv以及opencv contrib
 
->	一定要注意，从源码编译的时候不要直接从git上clone opencv的最新代码，建议使用正式发布的代码，我这里实用的是opencv (3.2.0) + opencv_contrib (3.2.0)，要不然会出现很奇葩的错误。
+>	一定要注意，从源码编译的时候不要直接从git上clone opencv的最新代码，建议使用正式发布的代码，我这里使用的是opencv (3.2.0) + opencv_contrib (3.2.0)，要不然会出现很奇葩的错误。
 
 由于我最想安装的是opencv的sfm模块，所以特别关注了这部分内容[http://docs.opencv.org/trunk/db/db8/tutorial_sfm_installation.html](http://docs.opencv.org/trunk/db/db8/tutorial_sfm_installation.html)
 
->	要安装的库，参考上述网页即可，但是据我的经验发现，直接实用apt安装是有问题的。当使用cmake编译的时候会报找不到头文件的的错，进而导致opencv sfm模块安装不成功。
+>	要安装的库，参考上述网页即可，但是据我的经验发现，直接使用apt安装是有问题的。当使用cmake编译的时候会报找不到头文件的的错，进而导致opencv sfm模块安装不成功。
 所以建议从源码编译依赖的各个库。
 
-实用cmake-gui编译下载好的opencv源代码
+使用cmake-gui编译下载好的opencv源代码
 
 在第一次Configure之后的OPENCV_EXTRA_MODULES_PATH变量中填好opencv contrib/modules
 

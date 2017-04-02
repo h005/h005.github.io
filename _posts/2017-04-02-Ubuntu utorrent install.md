@@ -6,8 +6,6 @@ categories: document
 tag:	Ubuntu
 ---
 
-## Ubuntu 16.04 utorrent install
-
 
 download the utorrent file for linux
 

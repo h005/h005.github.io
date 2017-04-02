@@ -7,8 +7,6 @@ categories: document
 tag: vim
 ---
 
-## Vim commands
-
 ref readers to [http://www.cnblogs.com/softwaretesting/archive/2011/07/12/2104435.html](http://www.cnblogs.com/softwaretesting/archive/2011/07/12/2104435.html)
 
 

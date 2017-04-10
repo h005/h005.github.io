@@ -61,7 +61,7 @@ layout: default
 
                   <ol class="breadcrumb">
                   {% if post.img %}
-                      <img class="feat-image" src={{ "/imgs/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+                      <img class="feat-image" src={{ "/imgs/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}" width="320" height="240">
                       <hr />
                    {% endif %} 
                    <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>

@@ -21,4 +21,14 @@ download the deb file [https://www.mendeley.com/download-mendeley-desktop/ubuntu
 
 >	sudo dpkg -i <path-to-downloaded-package>
 
+#### Mendeley proxy setup
+
+Mendeley cannot synchronize because some reasons. To solve it, we can set the proxy.
+
+Here is the method to set sock5 agent.
+
+> tools->options->Connection
+
+> socks 5 proxy, server: 127.0.0.1 port: 1080
+
  

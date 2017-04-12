@@ -13,3 +13,5 @@ ref readers to [http://www.cnblogs.com/softwaretesting/archive/2011/07/12/210443
 
 I will update the details later ...
 
+I have install some configure file ref [https://github.com/spf13/spf13-vim](https://github.com/spf13/spf13-vim)
+

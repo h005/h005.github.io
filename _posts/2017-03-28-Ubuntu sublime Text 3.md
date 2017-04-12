@@ -15,7 +15,7 @@ tag: Ubuntu
 
 依此网站做即可[https://packagecontrol.io/installation](https://packagecontrol.io/installation)
 
-一些重要的插件
+一些重要的插件cq
 
 >	SideBarEnhancements
 
@@ -23,8 +23,15 @@ tag: Ubuntu
 
 >	PackageResourceViewer
 
->	SyncedSidebarBg
+>	SyncedSidebarBg 侧边栏主题和主窗口同步
 
+>	SublimeCodeIntel 实现语法自动完成功能
+
+>	AutoPEP8 自动将Python规范化
+
+>	SublimeREPL 
+
+>	Python Breakpoints
 
 ## Ubuntu 16.04 sublime 无法输入中文解决方案
 

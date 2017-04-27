@@ -2,7 +2,7 @@
 layout: post
 title: Pytorch Learning
 moto: Work hard! Play hard!
-date: 2017-04-11 15:33:00 +0800
+date: 2017-04-13 15:33:00 +0800
 categories: document
 tag: Ubuntu
 ---

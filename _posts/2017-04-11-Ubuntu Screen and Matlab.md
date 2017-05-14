@@ -123,3 +123,27 @@ more details ref [http://www.cnblogs.com/mchina/archive/2013/01/30/2880680.html]
 matlab -nodesktop -nojvm -nosplash
 ```
 
+more details ref [http://www.cnblogs.com/mchina/archive/2013/01/30/2880680.html](http://www.cnblogs.com/mchina/archive/2013/01/30/2880680.html)
+
+----
+
+## Start Matlab without GUI
+
+```
+matlab -nodesktop -nojvm -nosplash
+```
+
+
+最近一两天发现了两个其他库的bug
+
+## opencv python
+引用常量的时候要把"CV_"去掉
+
+## vcglib
+这个库目前github上的最新版是有bug的,直接调用open函数来导入模型是有问题的,要根据不同模型的类别调用不同的导入函数.
+
+
+## qt download link
+
+[download.qt.io/official_releases/qt/](download.qt.io/official_releases/qt/)
+

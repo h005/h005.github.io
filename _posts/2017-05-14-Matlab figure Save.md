@@ -38,10 +38,18 @@ class AddDateTimeStampCommand(sublime_plugin.TextCommand):
 <table border="2" align="center">
 <tr>
 <td align="center">
-<img src="/assets/matlab/car_0001_padding.png"  alt="heat map with padding" width="320" height="240"/>
+<img src="/assets/matlab/car_0001_padding.png" width="320" height="240"/>
 </td>
 <td align="center">
-<img src="/assets/matlab/car_0001.png"  alt="heat map without padding" width="320" height="240"/>
+<img src="/assets/matlab/car_0001.png" width="320" height="240"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+heat map with padding
+</td>
+<td align="center">
+heat map without padding
 </td>
 </tr>
 </table>

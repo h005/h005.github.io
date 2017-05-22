@@ -11,7 +11,10 @@ tag: vim
 ref readers to [http://www.cnblogs.com/softwaretesting/archive/2011/07/12/2104435.html](http://www.cnblogs.com/softwaretesting/archive/2011/07/12/2104435.html)
 
 
-I will update the details later ...
+<!-- I will update the details later ... -->
 
 I have install some configure file ref [https://github.com/spf13/spf13-vim](https://github.com/spf13/spf13-vim)
 
+Another wonderful blog about vim
+
+[http://coolshell.cn/articles/5426.html](http://coolshell.cn/articles/5426.html)

@@ -91,3 +91,7 @@ for ele in  msg:
         print ele.split(':')[1]
         break
 ```
+
+ref [http://wiki.jikexueyuan.com/project/python-crawler-guide/the-use-of-urllib-library.html](http://wiki.jikexueyuan.com/project/python-crawler-guide/the-use-of-urllib-library.html)
+
+ref [https://www.w3schools.com/tags/ref_httpmethods.asp](https://www.w3schools.com/tags/ref_httpmethods.asp)

@@ -59,16 +59,28 @@ just modify the url to [http://p.nju.edu.cn/portal_io/login](http://p.nju.edu.cn
 But it is unsafe to write the username and the password into the script directly. So I suggest to receive the input from the console. And then, the code with modification is shown below.
 
 ```
+import sys
 import urllib
 import urllib2
 import getpass
 
-# read in the username
-username = raw_input('username:')
+def readInUserName():
+	# read in the username
+	username = raw_input('username:')
+	return username
 
-# read in the password without display
-password = getpass.getpass()
+def readInPassword():
+	# read in the password without display
+	password = getpass.getpass()
+	return password
 
+# deal the case that users set the $username and the $password by the command line
+if len(sys.argv) < 3:
+	username = readInUserName()
+	password = readInPassword()
+else:
+	username = sys.argv[1]
+	password = sys.argv[2]
 
 values = {}
 values['username'] = username
@@ -91,6 +103,17 @@ for ele in  msg:
         print ele.split(':')[1]
         break
 ```
+Then, there is a shell script for log in
+```
+#! /bin/bash
+
+usr=YOUR_USERNAME
+pwd=YOUR_PASSWROD
+
+python pLog.py $usr $pwd
+```
+
+
 
 ref [http://wiki.jikexueyuan.com/project/python-crawler-guide/the-use-of-urllib-library.html](http://wiki.jikexueyuan.com/project/python-crawler-guide/the-use-of-urllib-library.html)
 

@@ -12,3 +12,6 @@ tag: Ubuntu
 {:toc}
 
 [https://chenrudan.github.io/blog/2016/06/06/reinforcementlearninglesssion1.html](https://chenrudan.github.io/blog/2016/06/06/reinforcementlearninglesssion1.html)
+
+
+[http://karpathy.github.io/2016/05/31/rl/](http://karpathy.github.io/2016/05/31/rl/)

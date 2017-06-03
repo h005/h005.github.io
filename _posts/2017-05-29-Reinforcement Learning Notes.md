@@ -15,3 +15,8 @@ tag: Ubuntu
 
 
 [http://karpathy.github.io/2016/05/31/rl/](http://karpathy.github.io/2016/05/31/rl/)
+
+
+[http://www.cnblogs.com/mo-wang/p/4910855.html](http://www.cnblogs.com/mo-wang/p/4910855.html)
+
+值函数与Q函数计算的例子

@@ -20,3 +20,5 @@ tag: Ubuntu
 [http://www.cnblogs.com/mo-wang/p/4910855.html](http://www.cnblogs.com/mo-wang/p/4910855.html)
 
 值函数与Q函数计算的例子
+
+[http://vision.stanford.edu/teaching/cs231n/syllabus.html](http://vision.stanford.edu/teaching/cs231n/syllabus.html)

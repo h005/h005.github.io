@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Some sentences interesting
 moto: Work hard! Play hard!
 date: 2017-06-03 21:42:03 +0800
 categories: document

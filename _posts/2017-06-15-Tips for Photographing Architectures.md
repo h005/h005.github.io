@@ -4,6 +4,7 @@ title: Tips for Photographing Architectures
 moto: 慧极必伤，情深不寿，强极则辱，谦谦君子，温润如玉
 date: 2017-06-15 21:18:35 +0800
 categories: document
+img: DSC00328.jpg
 tag: paper
 ---
 
@@ -90,3 +91,10 @@ Buildings are riddled with areas of high contrast, which can fool the camera's m
 * Silhouettes
 
 Just as with human sujects, to get a visually stimulating silhouette shot of a building, move into a positon that means the sun is behind the structure and effectively blocks out the main orb of light. Here remember to deactivate the flash and expose for the sky.
+
+--------------
+
+
+2D 特征 | 描述 | 来源
+-------|----------|------
+Leading lines | 利用真實或虛擬線條引導讀者的目光 | [http://www.fotobeginner.com/14615/9-compositions-with-steve-mccurry/](http://www.fotobeginner.com/14615/9-compositions-with-steve-mccurry/)

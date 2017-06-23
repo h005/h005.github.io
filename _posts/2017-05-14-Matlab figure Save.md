@@ -67,14 +67,14 @@ image(img,'CDataMapping','scaled')
 colormap jet
 ```
 
-### remove the axis, and save the figure
+### Remove the axis, and save the figure
 	
 ```
 axis off
 saveas(fig,savePath);
 ```
 
-### reread the figure and remove the padding
+### Re-read the figure and remove the padding
 
 ```
 R = imread(savePath);
@@ -100,7 +100,7 @@ R = R(rowSize(1):rowSize(2),colSize(1):colSize(2),:);
 ```
 
 
-### source code:
+### Source code:
 ```
 %% this script for save the image without padding
 function saveImgWithoutPadding(img, imgName)

@@ -17,6 +17,7 @@ ref [https://www.adorama.com/alc/0014124/article/12-Steps-to-Success-as-an-Archi
 
 Tips 1
 
+
 * Location and weather
 
 Be sure that your are prepared for the particular location. And then Take a look at the weather report for the location you are heading to. Depending on the type of shot you want -sunny, cloudy, rainy, stormy, clear - the weather could ruin your day.

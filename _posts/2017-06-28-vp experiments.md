@@ -1,15 +1,11 @@
 ---
 layout: post
-title: viewpoint recommendation experiments
+title: Viewpoint recommendation experiments analysis
 moto: Play hard, work hard!
 date: 2017-06-28 19:22:48 +0800
 categories: document
 tag: paper
 ---
-
-# viewpoint recommendation experiments analysis
-
-----
 
 ## 不同方法对比:
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: viewpoint selection weekly report
+title: vpSegmentDetection Project
 moto: 道不行，乘桴浮于海。从我者，其由与？
 date: 2017-06-24 21:18:30 +0800
 categories: document
@@ -9,7 +9,7 @@ tag: paper
 
 毕业季,今天实验室同级的同学也离开了..
 
-# vpSegmentDetection Project
+---
 
 视点推荐需要在加入一些关于建筑物的2D特征,我目前想到的办法是用计算消失点检测出来的
 线段来描述.

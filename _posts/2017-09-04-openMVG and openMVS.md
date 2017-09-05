@@ -186,3 +186,19 @@ $ ReconstructMesh scene_dense.mvs
 $ TextureMesh scene_dense_mesh.mvs
 ```
 
+# Ubuntu 软件版本查看
+
+
+查看软件版本:
+aptitude show xxx
+
+
+也可用apt-show-versions (要先安装sudo apt-get install apt-show-versions)
+
+查看软件安装位置:
+dpkg -L xxxx
+
+查看软件是否安装：
+dpkg -l | grep filename
+
+ref [http://blog.csdn.net/giegie/article/details/6339151](http://blog.csdn.net/giegie/article/details/6339151)

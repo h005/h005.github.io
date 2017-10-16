@@ -41,3 +41,15 @@ tag: Ubuntu
 
 [https://github.com/lyfeyaj/sublime-text-imfix](https://github.com/lyfeyaj/sublime-text-imfix)
 
+
+## sublime 快捷键绑定
+
+```
+[
+	{ "keys": ["ctrl+i"], "command": "move", "args": {"by": "characters", "forward": true} },
+	{ "keys": ["ctrl+u"], "command": "move", "args": {"by": "characters", "forward": false} },
+	{ "keys": ["ctrl+j"], "command": "move", "args": {"by": "lines", "forward": true} },
+	{ "keys": ["ctrl+k"], "command": "move", "args": {"by": "lines", "forward": false} },
+	{ "keys": ["ctrl+d","ctrl+t"], "command": "add_date_time_stamp" }
+]
+```

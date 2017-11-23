@@ -32,3 +32,5 @@ tag: Image Aesthetic
 * Ulyanov, Dmitry, Vadim Lebedev, Andrea Vedaldi, and Victor Lempitsky. “Texture Networks: Feed-forward Synthesis of Textures and Stylized Images” arXiv: 1603.03417
 
 * Xizhou Zhu, Yuwen Xiong, Jifeng Dai, Lu Yuan, Yichen Wei. “Deep Feature Flow for Video Recognition”, CVPR 2017
+
+

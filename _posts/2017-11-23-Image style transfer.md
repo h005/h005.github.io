@@ -28,4 +28,8 @@ T_T 好久都没有更新过了
 
 * Automatic Content-Aware Color and Tone Stylization [paper](http://users.eecs.northwestern.edu/~xsh835/assets/cvpr2016_styletransfer.pdf) [code](https://github.com/jinyu121/ACACTS)
 
+* Visual Attribute Transfer through Deep Image Analogy [paper](https://dl.acm.org/citation.cfm?id=3073683) [supplemental](https://liaojing.github.io/html/data/analogy_supplemental.pdf) [code](https://github.com/msracver/Deep-Image-Analogy) [author](https://liaojing.github.io/html/)
+
 # Image Style Transfer Using Convolutional Neural Networks
+
+

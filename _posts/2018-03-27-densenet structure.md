@@ -77,3 +77,41 @@ _DenseBlock id = 10
 _BatchNorm2d id = 11
 
 ```
+
+## Call for Another Graphics Card with Pycharm
+
+Run -> Edit Configutrations -> Environment variables
+
+set CUDA_VISIBLE_DEVICES as 0, 1, or other values
+
+## Class and Instance in Python
+
+ref [https://www.cnblogs.com/Lambda721/p/6130209.html](https://www.cnblogs.com/Lambda721/p/6130209.html)
+
+## matlab laplacian filtering
+
+## conference list
+
+IEEE International Conference on Multimedia & Expo 2017
+
+ACM SIGMM International Conference on Multimedia Retrieval Jan. 30th, 2018
+
+Eurographics Conference on Visualization 2017
+
+Computer Animation and Social Agents Jan 27, 2018
+
+Computer Graphics International February 13, 2018, 23:59 UTC
+
+IEEE Pacific Visualization Symposium 2017
+
+C International Conference on Multimedia Modeling Jul 15, 2018
+
+C Pacific-Rim Conference on Multimedia May 5, 2018 
+
+C ACCV Asian Conference on Computer Vision Jul 5, 2018
+
+C British Machine Vision Conference 30 April 2018
+
+## matlab Semantic Segmentation Using Deep Learning
+
+[https://cn.mathworks.com/help/vision/examples/semantic-segmentation-using-deep-learning.html](https://cn.mathworks.com/help/vision/examples/semantic-segmentation-using-deep-learning.html)

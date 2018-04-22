@@ -27,6 +27,10 @@ tag: Python Numpy
 </tr>
 </table>
 
+
+## Python Numpy
+
+
 [https://docs.scipy.org/doc/numpy-dev/user/quickstart.html](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
 
 [python-numpy-tutorial of cs231n](http://cs231n.github.io/python-numpy-tutorial/)
@@ -38,3 +42,28 @@ tag: Python Numpy
 [python numpy of broadcasting](https://docs.scipy.org/doc/numpy/user/basics.broadcasting.html)
 
 [python array broadcasting in numpy](http://scipy.github.io/old-wiki/pages/EricsBroadcastingDoc)
+
+
+## Matlab Startup Error: no write permission
+
+```
+user@user-pc:/usr/local/MATLAB/R2017b/bin$ ./matlab
+
+Fatal Internal Error: Unexpected exception: 'N14cmddistributor16RuntimeExceptionE: Internal Error: No write permission on directory /home/hejw005/.matlab/R2017b/temp0x23d30x281b. Details: fl:filesystem:AccessDenied.' in createMVMAndCallParser phase 'Creating local MVM'
+```
+
+This can happen if the *~/.matlab* directory is owned by root. Make yourself owner of the directory:
+
+```
+sudo chown -R $USER: ~/.matlab
+```
+
+ref [https://askubuntu.com/questions/844535/matlab-startup-error-no-write-permission](https://askubuntu.com/questions/844535/matlab-startup-error-no-write-permission)
+
+
+## git socks5 proxy settings
+
+```
+git config --global http.proxy 'socks5://127.0.0.1:1080'
+git config --global https.proxy 'socks5://127.0.0.1:1080'
+```
